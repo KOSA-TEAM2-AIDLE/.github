@@ -1,4 +1,4 @@
-# ☁️ KOSA-Team2-AIDLE Organization
+# ☁️ KOSA-TEAM2-AIDLE Organization
 
 우리 팀의 효율적인 협업과 안정적인 코드 관리를 위한 공통 가이드라인입니다. 모든 팀원은 아래 규칙을 준수하여 프로젝트를 진행해 주세요.
 
